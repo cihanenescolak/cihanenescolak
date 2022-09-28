@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan Enes Çolak</h1>
-<h3 align="center">A long time ago, in a galaxy far, far away... there is a software developer</h3>
+<h3 align="center">A long time ago, in a galaxy far, far away... there was a software developer</h3>
 
 
 
