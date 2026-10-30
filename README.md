@@ -4,7 +4,7 @@
 
 
 <p align="center">
-- 📫 How to reach me me@cihanenescolak.com
+- 📫 How to reach me mail@cihancolak.com
 </p>
   
 <h3 align="left">Connect with me:</h3>
